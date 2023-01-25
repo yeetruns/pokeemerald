@@ -718,7 +718,7 @@
       "height": 7,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_Contest",
-      "border_filepath": "data/layouts/FallarborTown_LeftoverRSContestLobby/border.bin",
+      "border_filepath": "data/layouts/FallarborTown_LeftoverR\u0000\u0000\u0000\u0000testLobby/border.bin",
       "blockdata_filepath": "data/layouts/FallarborTown_LeftoverRSContestLobby/map.bin"
     },
     {
@@ -2417,7 +2417,7 @@
       "width": 58,
       "height": 26,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "0",
+      "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/UnusedOutdoorArea/border.bin",
       "blockdata_filepath": "data/layouts/UnusedOutdoorArea/map.bin"
     },
