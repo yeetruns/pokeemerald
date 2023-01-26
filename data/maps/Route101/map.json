@@ -19,9 +19,9 @@
       "direction": "left"
     },
     {
-      "map": "MAP_LITTLEROOT_TOWN",
-      "offset": 6,
-      "direction": "left"
+      "map": "MAP_OLDALE_TOWN",
+      "offset": -15,
+      "direction": "right"
     },
     {
       "map": "MAP_ROUTE113",
