@@ -14,19 +14,19 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_OLDALE_TOWN",
-      "offset": 7,
-      "direction": "right"
-    },
-    {
       "map": "MAP_LITTLEROOT_TOWN",
-      "offset": 3,
+      "offset": 6,
       "direction": "left"
     },
     {
       "map": "MAP_LITTLEROOT_TOWN",
       "offset": 6,
       "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE113",
+      "offset": 8,
+      "direction": "down"
     }
   ],
   "object_events": [
