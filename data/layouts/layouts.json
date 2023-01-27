@@ -414,7 +414,7 @@
     {
       "id": "LAYOUT_ROUTE126",
       "name": "Route126_Layout",
-      "width": 40,
+      "width": 52,
       "height": 40,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Mossdeep",
@@ -435,7 +435,7 @@
       "id": "LAYOUT_ROUTE128",
       "name": "Route128_Layout",
       "width": 20,
-      "height": 60,
+      "height": 92,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Pacifidlog",
       "border_filepath": "data/layouts/Route128/border.bin",
