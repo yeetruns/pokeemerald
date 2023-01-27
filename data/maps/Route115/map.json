@@ -14,13 +14,13 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_RUSTBORO_CITY",
-      "offset": 0,
-      "direction": "down"
+      "map": "MAP_ROUTE114",
+      "offset": -32,
+      "direction": "up"
     },
     {
-      "map": "MAP_ROUTE114",
-      "offset": -40,
+      "map": "MAP_SOOTOPOLIS_CITY",
+      "offset": -10,
       "direction": "right"
     }
   ],
