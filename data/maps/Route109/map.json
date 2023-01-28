@@ -14,14 +14,14 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_SLATEPORT_CITY",
-      "offset": 0,
-      "direction": "up"
+      "map": "MAP_ROUTE108",
+      "offset": 24,
+      "direction": "left"
     },
     {
-      "map": "MAP_ROUTE108",
-      "offset": 40,
-      "direction": "left"
+      "map": "MAP_FORTREE_CITY",
+      "offset": 17,
+      "direction": "right"
     }
   ],
   "object_events": [
